@@ -20,3 +20,4 @@ A ce jour, l’outil présente quelques limites :
 Progressivement ces limites seront resolus.
 ## <ins>Future développement</ins>
 Aujourd’hui l’outil est encore un script. La future étape sera principalement le déploiement avec une interface graphique.
+Une documentation plus détaillée sur les étapes du développement sera publiée ulterieurement.
