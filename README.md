@@ -3,7 +3,10 @@
 Dans le cadre d’un projet ou par curiosité personnelle, on peut être amené à se poser la question sur les enjeux environnementaux auquel un périmètre ou une emprise est soumise. Aujourd’hui grâce au travail de l’IGN Géoservices, on peut facilement avoir accès aux données environnementales. Cependant, cela demande généralement de parcourir les différents portails (selon les besoins) à savoir geoportail, geoportail de l’urbanisme, atlas des patrimoines, etc. Dans certains cas, tout ce qu’on veut est d’avoir un aperçu rapide ou réaliser un premier diagnostic.
 Par ailleurs, bien qu’intuitive, certains de ces portails ne permettent pas de par exemple importer une couche shapefile pour déterminer les enjeux environnementaux auxquels est soumis l’air d’étude. 
 ## <ins>Ce que propose l’outil de diagnostic</ins>
-L’objectif de cet outil est de proposer une première solution à la problématique élaborée ci-dessus.  L’IGN a développé des API pour permettre aux utilisateurs avertis de pouvoir se connecter à leur base des données et réaliser des manipulations avancées. Ainsi, le présent outil exploite les API développées par l’IGN. Dans un premier temps, c’est le flux WFS qui est exploité pour la construction de l’outil.
+L’objectif de cet outil est de proposer une première solution à la problématique élaborée ci-dessus.  L’IGN a développé des API pour permettre aux utilisateurs avertis de pouvoir se connecter à leur base des données et réaliser des manipulations avancées. Ainsi, le présent outil exploite les API développées par l’IGN. 
+
+Dans un premier temps, c’est le flux WFS qui est exploité pour la construction de l’outil.
+
 Grace au présent outil, il vous suffit d’importer l’emprise de votre aire d’étude et il vous donne la liste des enjeux environnementaux qui concernent votre aire d’étude. A ce jour l’outil permet de déterminer si vous êtes concerné par les périmètres suivants :
 * ZNIEFF
 * Sites Natura 2000
